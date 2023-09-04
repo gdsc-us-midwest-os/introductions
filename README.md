@@ -19,7 +19,7 @@ Join our organization by introducing yourself.
    
    🤯 **Fun fact:** 
    ```
-5. Submit a PR titled `new member - <your-name>` for review
+5. Submit a PR titled `<your school name>` for review e.g., `western michigan university`
 6. Once your PR is merged, an invite to join the org as a member will be sent 🥳
 
 ## Maintainers
