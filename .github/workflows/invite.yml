@@ -16,7 +16,10 @@ jobs:
         uses: andstor/file-existence-action@v2
         with:
           files: ".github/workflows/invite.yml, .gitignore"
-          fail_on_missing: true
+      - name: Exit if fail
+        id: exit_if_fail
+        if: steps.check_files.outputs.files_exists == 'false'
+        run: exit 1
   invite_members:
     runs-on: ubuntu-latest
     steps:
