@@ -22,4 +22,7 @@ Join our organization by introducing yourself.
 5. Submit a PR titled `<your school name>` for review e.g., `western michigan university`
 6. Once your PR is merged, an invite to join the org as a member will be sent 🥳
 
-## Maintainers
+## Org Roles
+1. Owner - Chapter Leads
+2. Maintainer - Maintainers selected by Leads
+3. Member
